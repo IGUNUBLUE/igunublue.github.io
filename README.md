@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chirpy
 
 🌏 English • [简体中文](docs/README_zh-CN.md)
@@ -201,3 +202,7 @@ If you enjoy this theme or find it helpful, please consider becoming my sponsor,
 ## License
 
 This work is published under [MIT](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE) License.
+=======
+My personal page...
+I am using the template jetkyll https://github.com/cotes2020/jekyll-theme-chirpy
+>>>>>>> b06295e... Update README.md
