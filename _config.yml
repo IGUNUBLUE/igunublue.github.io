@@ -10,13 +10,13 @@
 
 title: Lenin AGC                          # the main title
 
-tagline: My personal page.  # it will display as the sub-title
+tagline: My personal space in the web.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Post, code, project, etc.
-
+  My space on the web, articles, projects, 
+  evidence of my growth as a developer.
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://igunublue.github.io/'
+url: 'https://igunublue.github.io'
 
 author: Lenin AGC                  # change to your full name
 
@@ -26,14 +26,14 @@ github:
   username: igunublue             # change to your github username
 
 twitter:
-  username: @igunublue            # change to your twitter username
+  username: igunublue            # change to your twitter username
 
 social:
   name: Lenin AGC                  # it will shows as the copyright owner in Footer
   email: lcamargo@protonmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/      # change to your twitter homepage
+    - https://twitter.com/igunublue      # change to your twitter homepage
     - https://github.com/igunublue       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
