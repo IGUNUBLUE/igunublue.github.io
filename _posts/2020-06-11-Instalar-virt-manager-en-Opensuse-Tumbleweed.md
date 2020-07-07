@@ -3,7 +3,7 @@ title: Instalar virt-manager en Opensuse Tumbleweed
 author: Lenin AGC
 date: 2020-06-11 19:33:00 +0800
 categories: [Systems, Virtualization]
-tags: [opensuse-tumbleweed, free-software, virt-manager]
+tags: [opensuse-tumbleweed, free-software, virt-manager, Tutorial]
 math: true
 ---
 

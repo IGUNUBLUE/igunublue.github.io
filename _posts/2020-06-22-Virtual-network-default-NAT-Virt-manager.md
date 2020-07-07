@@ -3,7 +3,7 @@ title: Virtual network default:NAT(Inactive) – Virt manager
 author: Lenin AGC
 date: 2020-06-22 15:33:00 +0800
 categories: [Systems, Virtualization]
-tags: [opensuse-tumbleweed, free-software, virt-manager]
+tags: [opensuse-tumbleweed, free-software, virt-manager, Tutorial]
 math: true
 ---
 
