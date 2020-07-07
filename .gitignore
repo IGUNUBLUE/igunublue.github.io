@@ -18,6 +18,3 @@ vendor
 
 # vscodium
 *.code-workspace
-
-# docker composer
-*.yml
