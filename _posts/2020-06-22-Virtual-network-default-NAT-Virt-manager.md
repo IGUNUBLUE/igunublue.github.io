@@ -15,13 +15,13 @@ Debo reconocer que el desconocimiento de dicho programa y la pereza de no leer e
 
 Aquí personalmente fue mi momento ¡eureka!, la imagen inicial de dicho articulo me habría ahorrado las dos horas que me tomo saber esto; simplemente debía activar la conexión virtual existente en mi VM, si… así de fácil. Lo enumeré en dos (2) simples pasos, eso es todo; aquí los dejo con imagen y todo para que no les tome dos horas como a mi, pufff!! que tonto la verdad… era obvio… 🤣🤣🤣🤣
 
-<h3>Paso 1</h3>
+## Paso 1
 
 En la ventana principal de VM y con alguna de las MV seleccionada vamos a **Edit** que esta entre las opciones de la parte superior.
 
 ![search program]({{ "/assets/img/sample/post3_img1.png" | relative_url }})
 
-<h3>Paso 2</h3>
+## Paso 2
 
 En el menú desplegable que nos aparece después de presionar **Edit** seleccionamos **Connections Details**, ahora veremos la siguiente ventana que nos interesa.
 

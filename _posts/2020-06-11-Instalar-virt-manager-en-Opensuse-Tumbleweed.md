@@ -15,15 +15,15 @@ Lo que quiero decir es simplemente que si hablamos de algo es porque lo practica
 
 Cuando te inicias en el mundillo GNU/linux sufres de algo que se llama distrohopping, en simples palabras vas de distribución en distribución buscando algo que a veces ni tu mismo sabe que es, Jajajaja yo también la sufrí y en algún momento decidí parar sin dejarlo del todo, es aquí donde conocí virtualbox.
 
-<h3>¿Que es virtualbox?</h3>
+## ¿Que es virtualbox?
 
 No es mas que un software que permite simular x hardware para desplegar de manera controlada y hospedada localmente sistemas operativos. Por mucho tiempo lo use y llego el día que empecé a cuestionarme, ya saben, por eso del software libre y tal… En mi busqueda algo que para mis amigos es superior o como dirían los amigos de hatthieves.es es *la ostia!!*…
 
-<h3>¿Que es Virt- manager? el software la ostia.</h3>
+## ¿Que es Virt- manager? el software la ostia.
 
 *Es una interfaz de usuario de escritorio para administrar maquinas virtuales a través de libvirt. Se dirige principalmente a maquinas virtuales KVM, pero también administra Xen y LXC (contenedores de Linux). Presenta una vista resumida de los dominios en ejecución, su rendimiento en vivo y estadísticas de utilización de recursos. Los asistentes permiten la creación de nuevos dominios, y la configuración y el ajuste de la asignación de recursos y el hardware virtual de un dominio. Un visor de cliente VNC y SPICE incorporado presenta una consola grafica completa para el dominio invitado.* Esto es una definición oficial que encontramos en [virt-manager.org.](https://virt-manager.org)
 
-<h3>Ahora si… Como instalar virt-manager en Opensuse tumbleweed.</h3>
+## Ahora si… Como instalar virt-manager en Opensuse tumbleweed.
 
 Lo primero que debemos hacer es abrir **YaST Software** para instalar los paquetes necesarios, yo suelo presionar Alt+barra_espaciadora y en KDE se desplegará un pequeña barra en la parte superior del escritorio, ahí se escribe el criterio de búsqueda, que en este caso es “yast software”.
 
