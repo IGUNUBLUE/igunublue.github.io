@@ -7,6 +7,8 @@ tags: [opensuse-tumbleweed, free-software, virt-manager]
 math: true
 ---
 
+![search program]({{ "/assets/img/sample/post1_img0.jpg" | relative_url }})
+
 Bueno… Hace algunos años estoy usando software libre, pero con los años te vas enterando que el mundo del software libre también tiene excepciones a la regla en lo que respecta a los parámetros de “software libre”, todos no parecen estar de acuerdo al 100% con la filosofía stallman o simplemente no se quieren complicar.
 
 Lo que quiero decir es simplemente que si hablamos de algo es porque lo practicamos o por lo menos eso pienso y me esfuerzo por hacer. Bajo este argumento propio engendrado por mis propias conclusiones y experiencias siempre me auto impongo la tarea de usar software 100% libre, pero debo decir que hay que insistir pues no es tarea de un doble click.
@@ -66,4 +68,3 @@ Para que el sistema asimile los cambios realizados debemos cerrar la sesión y v
 Gracias a @DevWEDC del canal telegram en español de opensuse .
 
 El placer de hacer y compartir … 🙃
-
