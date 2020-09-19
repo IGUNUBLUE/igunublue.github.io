@@ -19,7 +19,7 @@ El proceso de instalación es complejo para quienes vienen de la paradoja de la 
 
 [ArcoLinux](https://arcolinux.info/) notoriamente es un arch con un asistente y scripts para dejar todo bien bonito reduciendo así la curva de aprendizaje inicial y alimentando el deseo de saber mas, que a mi parecer es lo que se debe hacer. Y si, es cierto, necesitamos saber que sucede detrás de cámaras, esa es de las ventajas mas prominentes del ecosistemas del software libre; la oportunidad de poder rebuscar en el código y la increíble posibilidad de tropezar tantos conceptos hacen de los usuarios de GNU/Linux expertos que controlan cada aspecto del software que usan, pero ¡por DIOS! Transferir toda esa información de la memoria de corto plazo a la de largo plazo toma tiempo, osea que la primera impresión no tiene segunda oportunidad, es mi opinión. Entonces pensando en lo anterior el arch+vitamina ofrece también varias rutas de instalación que propulsan y desmenuza los concepto para no tragar entero ¡ufff! **¿era difícil hacer eso?** Quizás si, quizás no, **¿quien soy yo para juzgar?** Simplemente doy mi punto de vista.
 
-## Resumiendo..
+## Resumiendo...
 
 Las ventajas que yo veo: (esto es aparte de lo que ofrece ser usuario de GNU/Linux)
 
