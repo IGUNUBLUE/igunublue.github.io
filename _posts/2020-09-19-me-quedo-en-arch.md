@@ -13,7 +13,7 @@ Primero que nada pedir disculpa por no escribir con frecuencia, la verdad la fal
 
 Con el titulo de hoy quiero expresar lo cómodo que me siento en Arch linux pero también las razones que en su momento me hicieron dejarlo. Hace ya varios años que lo había probado y lo que mas llamó mi atención fue la posibilidad de compilar desde el código fuente solo utilizando el **pkgbuild** que muchas veces se encuentra disponible en los repos de la comunidad AUR, pero por otro lado lo que a mi parecer es una decisión que discrimina al usuario amateur es lo tedioso del proceso de instalación y configuración para poner el sistema a punto, Ahora, si bien el lema es *“mantelo simple estúpido”* la pregunta es: **¿simple para quien?** **¿Para ellos?** o **¿para los usuarios?** esto lo resalto pues es la mosca en la sopa.
 
-El proceso de instalación es complejo para quienes vienen de la paradoja de la ventana y a eso le sumamos la necesidad de tener claro ciertos conceptos que para muchos usuarios son cosas de hackers, al parecer no soy el único que piensa así, al punto que hay entusiastas de nivel PRO que están del lado de los mas nuevos y enfocaron sus esfuerzos en ofrecer alternativas capaces mantener la motivación que se requiere para montar al ÑU; una de ellas es **ArcoLinux.**
+El proceso de instalación es complejo para quienes vienen de la paradoja de la ventana y a eso le sumamos la necesidad de tener claro ciertos conceptos que para muchos usuarios son cosas de hackers, al parecer no soy el único que piensa así, al punto que hay entusiastas de nivel PRO que están del lado de los mas nuevos y enfocaron sus esfuerzos en ofrecer alternativas que mantienen la motivación que se requiere para montar al ÑU; una de ellas es **ArcoLinux**.
 
 ![search program]({{ "/assets/img/sample/post5_img1.jpg" | relative_url }})
 
@@ -41,7 +41,7 @@ En lo antes mencionados creo que muchas ventajas hacen parte de las opciones GNU
 
 ## Ahora...
 
-**¿Que pasaría si lo quiero hacer por mi mismo?** (personalizaciones y demás) y ademas deseo con todas mis fuerzas evadir el rudimentario proceso de instalación. Pues que entonces esos entusiastas de los que hable y estoy seguro que pensaron igual que yo resolvieron el problema. **¿como lo resolvieron?** Crearon anarchy installer.
+**¿Que pasaría si lo quiero hacer por mi mismo?** (personalizaciones y demás) y ademas deseo con todas mis fuerzas evadir el rudimentario proceso de instalación. Pues que entonces esos entusiastas de los que hable y estoy seguro que pensaron igual que yo, resolvieron el problema. **¿como lo resolvieron?** Crearon anarchy installer.
 
 ![search program]({{ "/assets/img/sample/post5_img2.png" | relative_url }})
 
