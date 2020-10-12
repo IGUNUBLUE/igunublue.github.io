@@ -1,7 +1,7 @@
 ---
 title: Mi primera máquina virtual con virt-manager
 author: Lenin AGC
-date: 2020-06-15 13:33:00 +0800
+date: 2020-06-15 13:33:00
 categories: [Systems, Virtualization]
 tags: [opensuse-tumbleweed, free-software, virt-manager, Tutorial]
 math: true

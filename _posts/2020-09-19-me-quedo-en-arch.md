@@ -1,7 +1,7 @@
 ---
 title: Me quedo en Arch linux
 author: Lenin AGC
-date: 2020-09-19 13:48:00 +0800
+date: 2020-09-19 13:48:00
 categories: [SO, Arch]
 tags: [free-software, archlinux]
 math: true

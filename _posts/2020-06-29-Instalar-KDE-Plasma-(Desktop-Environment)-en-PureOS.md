@@ -1,7 +1,7 @@
 ---
 title: Instalar KDE-Plasma (Desktop Environment) en PureOS
 author: Lenin AGC
-date: 2020-06-29 14:33:00 +0800
+date: 2020-06-29 14:33:00
 categories: [Systems, Operative-system]
 tags: [PureOS, free-software, Tutorial]
 math: true

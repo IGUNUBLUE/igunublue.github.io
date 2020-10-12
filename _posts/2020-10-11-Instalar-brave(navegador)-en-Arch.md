@@ -1,7 +1,7 @@
 ---
 title: Instalar brave (navegador) en Arch.
 author: Lenin AGC
-date: 2020-10-11 14:33:00 +0800
+date: 2020-10-11 14:33:00
 categories: [Systems, Free-software]
 tags: [ArchLinux, free-software, Tutorial]
 math: true
