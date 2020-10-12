@@ -52,4 +52,6 @@ Como muestra la imagen con el comando **pwd** veo la ruta completa en la que est
 
 Me gusta hacerlo así pues me siento como un juaker jajajajajajajaja, un saludo y abrazo a todos!
 
+You can read this and others posts in hatthieves.es
+
 El placer de hacer y compartir.
