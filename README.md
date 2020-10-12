@@ -1,3 +1,2 @@
 My personal page...
 I am using the template jetkyll https://github.com/cotes2020/jekyll-theme-chirpy
->>>>>>> b06295e... Update README.md
