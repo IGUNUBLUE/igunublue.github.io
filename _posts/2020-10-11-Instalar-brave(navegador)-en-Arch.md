@@ -37,7 +37,7 @@ Copiamos (click derecho, copiar URL) el Git Clone URL para usarlo en nuestra ter
 
 ![image 5]({{ "/assets/img/sample/post6_img4.png" | relative_url }})
 
-Usaremos la sentencia git clone mas la dirección del repo que copiamos anteriormente para clonar de manera local, algo así:
+Usaremos la sentencia **git clone** mas la dirección del repo que copiamos anteriormente para clonar de manera local, algo así:
 
 ```terminal
 $ git clone https://aur.archlinux.org/brave-bin.git
