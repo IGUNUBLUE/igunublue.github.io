@@ -50,6 +50,6 @@ Yo siempre tengo una carpeta en mi home a la que llamo **Aur** dentro de esta ca
 
 Como muestra la imagen con el comando **pwd** veo la ruta completa en la que estoy, recuerden que estando en la terminal pueden usar **cd** mas el nombre del directorio para entrar a el por decirlo de alguna manera y con **ls** ver las subcarpetas. Solo nos faltaría ejecutar **makepkg -sir**, ingresar la contraseña en el caso de que la solicite y listo tendremos instalado brave.
 
-Me gusta hacerlo así pues me siento como un juaker jajajajajajajaja, un saludo y abrazo a todos!
+Un saludo y abrazo a todos!
 
 El placer de hacer y compartir.
