@@ -1,20 +1,20 @@
 # hidden files
 .*
-!.github
 
-# bundler cache
+# python compiled files
+*.pyc
+
+# jekyll debug
 _site
-vendor
+
+# Jeykll Gemfile.lock
 Gemfile.lock
 
-# rubygem
-*.gem
+# yui-compressor
+*.jar
 
 # bundle cache
 vendor
 
 # vscodium
 *.code-workspace
-# npm dependencies
-node_modules
-package-lock.json
